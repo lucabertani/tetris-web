@@ -1,5 +1,7 @@
 # Tetris
 
+**[▶ Play the live demo](https://lucabertani.it/tetris/)**
+
 A classic Tetris game for the browser, built as a single static web page.
 No build step, no server, no dependencies: just open `index.html` and play.
 
